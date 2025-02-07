@@ -2,6 +2,9 @@
 ## Overview
 The Volatility Prediction project aims to develop a predictive model to forecast the volatility of financial assets, specifically focusing on Bitcoin data. This project utilizes a combination of traditional econometric models and advanced neural network techniques to achieve accurate and reliable predictions. By comparing various models, including GARCH and LSTM networks, the project seeks to identify the most effective approach for volatility forecasting.
 
+## Publication
+Link: https://www.ijert.org/research/volatility-prediction-IJERTV11IS050187.pdf
+
 ## Project Structure
 - Proposal Document: Contains the project proposal and detailed description of the objectives, methodologies, and expected outcomes.
 - Data Collection: Scripts and tools for collecting financial data from sources like Yahoo Finance.
